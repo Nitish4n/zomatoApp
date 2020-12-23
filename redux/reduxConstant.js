@@ -1,0 +1,4 @@
+export const SET_GEOLOCATION = "SET_GEOLOCATION"
+export const STORE_NEARBY = "STORE_NEARBY"
+
+
